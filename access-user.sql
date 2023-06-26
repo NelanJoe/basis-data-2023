@@ -28,8 +28,6 @@ SELECT * FROM mysql.user;
 DROP USER 'nelan'@'localhost';
 
 
-
-
 SHOW TABLES;
 
 
